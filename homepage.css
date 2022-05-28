@@ -1,0 +1,113 @@
+header {
+  background-color: aquamarine;
+  border-radius: 70px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0px;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  padding-bottom: 50px;
+  background-color: beige;
+}
+
+header h1 {
+  text-shadow: 2px 2px #34a461;
+}
+
+h2 {
+  text-shadow: 1.5px 1.5px goldenrod;
+}
+
+#ee {
+  color: rgb(136, 120, 30);
+  text-decoration: none;
+}
+
+.heading {
+  font-family: "Koulen", sans-serif;
+  text-align: center;
+}
+
+main div {
+  box-shadow: 0 3px 10px gray;
+  margin: 25px 0 25px 0;
+}
+
+strong {
+  color: coral;
+}
+
+#anchor {
+  background-color: aquamarine;
+}
+
+#table {
+  background-color: aquamarine;
+}
+
+.background {
+  background-color: bisque;
+  border: 2px bisque;
+  border-radius: 7px;
+  padding: 5px;
+}
+
+img {
+  padding: 0 2rem 2rem 2rem;
+}
+
+th {
+  background-color: goldenrod;
+  color: aliceblue;
+}
+
+table {
+  margin-left: 21rem;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+}
+
+#background {
+  background-color: aquamarine;
+}
+
+#ol {
+  text-align: left;
+}
+
+#button {
+  padding: 8px 25px;
+  background-color: chocolate;
+  color: aliceblue;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: "Koulen", sans-serif;
+}
+
+#button:hover {
+  background-color: salmon;
+}
+
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+table {
+  border: 0px;
+}
